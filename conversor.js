@@ -45,8 +45,10 @@ do{
             console.log("Encerrando o conversor...")
             break
         }
-
-    
+        default:{
+            console.log("Opção inválida tente novamente!")
+            break
+        }
 
         }
             
